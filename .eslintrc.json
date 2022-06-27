@@ -2,6 +2,7 @@
   "root": true,
   "ignorePatterns": ["**/*"],
   "plugins": ["@nrwl/nx"],
+  "extends": ["plugin:@nrwl/nx/react", "plugin:react/recommended"],
   "overrides": [
     {
       "files": ["*.ts", "*.tsx", "*.js", "*.jsx"],
@@ -18,7 +19,8 @@
               }
             ]
           }
-        ]
+        ],
+        "react/no-array-index-key": "error"
       }
     },
     {
