@@ -3,7 +3,6 @@
   "version": 2,
   "projects": {
     "nx-next": "apps/nx-next",
-    "nx-next-e2e": "apps/nx-next-e2e",
-    "shared-components": "libs/shared/components"
+    "nx-next-e2e": "apps/nx-next-e2e"
   }
 }
