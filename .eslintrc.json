@@ -20,7 +20,8 @@
             ]
           }
         ],
-        "react/no-array-index-key": "error"
+        "react/no-array-index-key": "error",
+        "react/react-in-jsx-scope": "off"
       }
     },
     {
