@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-npx nx run-many --target=test --all=true
-npx nx run-many --target=lint --all=true --fix
+# npx nx run-many --target=test --all=true
+# npx nx run-many --target=lint --all=true --fix
