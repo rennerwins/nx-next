@@ -41,4 +41,4 @@ jobs:
       run: yarn install --prefer-offline --frozen-lockfile
     
     - name: Build
-      run: yarn nx build web
+      run: yarn nx affected --target=build
