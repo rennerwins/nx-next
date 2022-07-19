@@ -5,6 +5,8 @@
     "nx-next": "apps/nx-next",
     "nx-next-e2e": "apps/nx-next-e2e",
     "shared-components": "libs/shared/components",
-    "shared-components-e2e": "apps/shared-components-e2e"
+    "shared-components-e2e": "apps/shared-components-e2e",
+    "web": "apps/web",
+    "web-e2e": "apps/web-e2e"
   }
 }
