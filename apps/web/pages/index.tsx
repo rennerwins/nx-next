@@ -8,7 +8,7 @@ export function Index() {
    */
   return (
     <div className={styles.page}>
-      <div>No cache</div>
+      <div>No cachess</div>
     </div>
   );
 }
